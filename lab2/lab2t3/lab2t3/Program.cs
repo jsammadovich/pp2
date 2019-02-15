@@ -9,6 +9,7 @@ namespace lab2t3
 {
     class Program
     {
+        //TAB қолдану үшін функция ашамын
         public static void PrintSpaces(int n)
         {
             for(int i = 0; i < n; i++)
@@ -16,6 +17,7 @@ namespace lab2t3
                 Console.Write("    ");
             }
         }
+        //барлық папкалардың көрсетілген жолмен көрсетілуі үшін функция ашамын
         public static void Direct(DirectoryInfo dir,int a)
         {
             foreach(FileInfo f in dir.GetFiles())

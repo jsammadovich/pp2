@@ -10,20 +10,30 @@ namespace lab1t4
     {
         static void Main(string[] args)
         {
+            //айнымалы ашып ,оған массивтің размерін сақтаймын
             int n = int.Parse(Console.ReadLine());
-            for(int i = 0;i < n; i++)
+            //string - те 2d массив ашамын
+            string[,] arr = new string[n, n];
+            //массив ішін [*] символымен толтырамын
+            for (int i = 0; i < n; i++)
             {
-                for(int j = 0;j < n; j++)
+                for (int j = 0; j < n; j++)
                 {
-                    if(i >= j)
-                    {
-                        Console.Write("[*]");
-                    }
-                   
+                    arr[i, j] += "[*]";
+                }
+            }
+            //консольге керек символдарды шығарамын
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    if (i >= j)
+                        Console.Write(arr[i, j]);
                 }
                 Console.WriteLine();
-
             }
+            Console.ReadKey();
+
         }
     }
 }
