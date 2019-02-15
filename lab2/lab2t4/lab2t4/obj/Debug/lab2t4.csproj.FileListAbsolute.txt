@@ -1,0 +1,6 @@
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t4\lab2t4\bin\Debug\lab2t4.exe.config
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t4\lab2t4\bin\Debug\lab2t4.exe
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t4\lab2t4\bin\Debug\lab2t4.pdb
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t4\lab2t4\obj\Debug\lab2t4.csproj.CoreCompileInputs.cache
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t4\lab2t4\obj\Debug\lab2t4.exe
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t4\lab2t4\obj\Debug\lab2t4.pdb

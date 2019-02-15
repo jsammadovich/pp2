@@ -1,0 +1,7 @@
+C:\Users\Sammadovich\Desktop\PP2\lab3\FarManager\lab3t1\bin\Debug\lab3t1.exe.config
+C:\Users\Sammadovich\Desktop\PP2\lab3\FarManager\lab3t1\bin\Debug\lab3t1.exe
+C:\Users\Sammadovich\Desktop\PP2\lab3\FarManager\lab3t1\bin\Debug\lab3t1.pdb
+C:\Users\Sammadovich\Desktop\PP2\lab3\FarManager\lab3t1\obj\Debug\lab3t1.csprojAssemblyReference.cache
+C:\Users\Sammadovich\Desktop\PP2\lab3\FarManager\lab3t1\obj\Debug\lab3t1.csproj.CoreCompileInputs.cache
+C:\Users\Sammadovich\Desktop\PP2\lab3\FarManager\lab3t1\obj\Debug\lab3t1.exe
+C:\Users\Sammadovich\Desktop\PP2\lab3\FarManager\lab3t1\obj\Debug\lab3t1.pdb

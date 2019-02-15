@@ -1,0 +1,7 @@
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t3\lab2t3\bin\Debug\lab2t3.exe.config
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t3\lab2t3\bin\Debug\lab2t3.exe
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t3\lab2t3\bin\Debug\lab2t3.pdb
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t3\lab2t3\obj\Debug\lab2t3.csprojAssemblyReference.cache
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t3\lab2t3\obj\Debug\lab2t3.csproj.CoreCompileInputs.cache
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t3\lab2t3\obj\Debug\lab2t3.exe
+C:\Users\Sammadovich\Desktop\PP2\lab2\lab2t3\lab2t3\obj\Debug\lab2t3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Sammadovich\source\repos\lab2t11\lab2t11\obj\Debug\lab2t11.csprojAssemblyReference.cache
+C:\Users\Sammadovich\source\repos\lab2t11\lab2t11\obj\Debug\lab2t11.csproj.CoreCompileInputs.cache
+C:\Users\Sammadovich\source\repos\lab2t11\lab2t11\bin\Debug\lab2t11.exe.config
+C:\Users\Sammadovich\source\repos\lab2t11\lab2t11\bin\Debug\lab2t11.exe
+C:\Users\Sammadovich\source\repos\lab2t11\lab2t11\bin\Debug\lab2t11.pdb
+C:\Users\Sammadovich\source\repos\lab2t11\lab2t11\obj\Debug\lab2t11.exe
+C:\Users\Sammadovich\source\repos\lab2t11\lab2t11\obj\Debug\lab2t11.pdb

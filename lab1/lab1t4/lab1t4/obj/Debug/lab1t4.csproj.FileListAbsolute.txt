@@ -1,0 +1,7 @@
+C:\Users\Sammadovich\source\repos\lab1t4\lab1t4\obj\Debug\lab1t4.csprojAssemblyReference.cache
+C:\Users\Sammadovich\source\repos\lab1t4\lab1t4\obj\Debug\lab1t4.csproj.CoreCompileInputs.cache
+C:\Users\Sammadovich\source\repos\lab1t4\lab1t4\bin\Debug\lab1t4.exe.config
+C:\Users\Sammadovich\source\repos\lab1t4\lab1t4\bin\Debug\lab1t4.exe
+C:\Users\Sammadovich\source\repos\lab1t4\lab1t4\bin\Debug\lab1t4.pdb
+C:\Users\Sammadovich\source\repos\lab1t4\lab1t4\obj\Debug\lab1t4.exe
+C:\Users\Sammadovich\source\repos\lab1t4\lab1t4\obj\Debug\lab1t4.pdb
